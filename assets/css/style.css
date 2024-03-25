@@ -435,7 +435,6 @@ section {
   width: 100%;
   position: relative;
   text-align: center;
-  background: #fff;
 }
 
 .facts .count-box i {
@@ -534,7 +533,6 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -874,7 +872,6 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f8f9;
   color: #45505b;
   font-size: 14px;
   text-align: center;
@@ -928,4 +925,8 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+
+.smaller-image {
+  transform: scale(0.6);
 }
